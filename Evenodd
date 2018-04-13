@@ -28,3 +28,7 @@ namespace check1
         }
     }
 }
+
+Output:
+Enter a Number : 32
+Entered Numer is Even Number
